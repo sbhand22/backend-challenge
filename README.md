@@ -58,5 +58,5 @@ First, you'll need to create a Docker image of your application. Here's how you 
         minikube service fastapi-deployment
         ```
 ### accessing api
-after everything done correctly you can go to <sytem's Kubernetes nad service host>:8000/<uri defined in main.py>
+after everything done correctly you can go to ```sh <sytem's Kubernetes and service host>:8000/<uri defined in main.py>```
 
